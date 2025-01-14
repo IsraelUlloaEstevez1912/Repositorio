@@ -1,1 +1,2 @@
 Hola este es tu 2do archivo, hola mundo
+Hola estoy aprendiendo Git para el manejo de versiones
